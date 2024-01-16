@@ -13,15 +13,15 @@
 
 文档中包含 Java，C/C++，go三个方向的推荐网课，学习资料，发展路径等相关内容
 
-[direction-introduction]
+[direction-introduction](https://github.com/gduf-cs-tribe/direction-introduction)
 
 ### 考核说明
 
 - 本次考核根据上一轮的情况，决定分为两个**Level**：
 
-  - [23级爪哇后端第二轮考核Level1]
+  - [23级爪哇后端第二轮考核Level1](https://github.com/gduf-cs-tribe/2023-backend-recruit-02/blob/main/2023-backend-recruit-02-Level1.md)
 
-  - [23级爪哇后端第二轮考核Level2]
+  - [23级爪哇后端第二轮考核Level2](https://github.com/gduf-cs-tribe/2023-backend-recruit-02/blob/main/2023-backend-recruit-02-Level2.md)
 
 - **Level1**的内容与**第一轮考核**相同：
 
